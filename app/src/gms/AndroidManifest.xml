@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="pe.cgonzales.hmsdemoapp">
+
+    <dist:module dist:instant="true" />
+
+    <application>
+        <meta-data android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key"/>
+    </application>
+
+</manifest>

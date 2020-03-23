@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333</color>
+    <color name="colorPrimaryDark">#333</color>
+    <color name="colorAccent">#444</color>
+    <color name="red">#FE0000</color>
+    <color name="gray">#333</color>
+    <color name="blue_fb">#3B5998</color>
+    <color name="red_google">#D23F31</color>
+
+
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#fff</color>
+    <color name="gray_light">#ddd</color>
+    <color name="gray_medium">#666</color>
+
+    <color name="translucent_black">#80000000</color>
+    <color name="translucent_white">#80FFFFFF</color>
+
+    <color name="aceptado">#ffff99</color>
+    <color name="anunciado">#ccff99</color>
+    <color name="black">#000000</color>
+
+    <color name="text_white">#fff</color>
+    <color name="warning_red">#F00505</color>
+    <color name="btn_blue">#456E94</color>
+
+</resources>
